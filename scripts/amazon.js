@@ -1,7 +1,7 @@
 //data structure: save or organizes data we use a mixture of objects & arrays to save data structure
 //import { cart } from "../data/cart";
 import {cart} from '../data/cart.js';
-
+import { products } from '../data/products.js';
 
 let productsHTML = '';
 
